@@ -7,4 +7,5 @@ I am a DevOps Engineer with knowledge in AWS, Docker, Kubernetes (on-premise, Op
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=laurajsdias&layout=compact&theme=dracula">
 </div>
 
+
 :facepunch: Reach me: linkedin.com/in/laurajsdias
